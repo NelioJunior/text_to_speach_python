@@ -13,8 +13,8 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 
 # Insira suas credenciais aqui
-api_key = 'ieDN6HUXPuW_5_Ib7bmI_JyU2B3P1c7316imr3CCgFae'  
-url = 'https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/52ad33ee-7af4-4b36-9409-58b0a378fded'
+api_key = '0ZEJNdSIrxp6wYqvS0me_m2YkRs-SVZHo-q63FEa-nZF'  
+url = 'https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/4b701c76-85ad-415c-a71c-24c96400ee1a'
 
 # Inicializar o autenticador
 authenticator = IAMAuthenticator(api_key)
